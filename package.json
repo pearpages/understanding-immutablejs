@@ -1,0 +1,19 @@
+{
+  "name": "understanding-immutablejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pearpages/understanding-immutablejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pearpages/understanding-immutablejs/issues"
+  },
+  "homepage": "https://github.com/pearpages/understanding-immutablejs#readme"
+}
