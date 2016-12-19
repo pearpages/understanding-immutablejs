@@ -22,3 +22,4 @@ No dependencies, works with any unit testing framework.
 sudo npm install -g sinon
 ```
 
+This is just a test.
